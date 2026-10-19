@@ -1,6 +1,5 @@
 # Menoseuranta
-
-Selainohjelmoinnin harjoitustyö, joka soveltaa puhelinluettelon React + Vite -rakennetta omaan aiheeseen. Sovelluksella kirjataan menoja ja tarkastellaan kulutusta HTML-taulukossa.
+Sovelluksella kirjataan menoja ja tarkastellaan kulutusta HTML-taulukossa.
 
 ## Käynnistys
 
